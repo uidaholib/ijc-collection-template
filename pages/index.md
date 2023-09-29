@@ -1,6 +1,6 @@
 ---
-layout: home-infographic
-title: Home
+layout: ijc-home
+title: IJC Home
 permalink: /
 ---
 
