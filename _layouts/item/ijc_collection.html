@@ -1,0 +1,51 @@
+---
+# ijc collection descriptions
+layout: default
+# item-meta adds rich meta markup to the page on production build
+item-meta: true
+---
+<div class="container py-3">
+
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/' | relative_url }}">Home</a></li>
+        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/browse.html' | relative_url }}">Collections</a></li>
+        <li class="breadcrumb-item active text-dark" aria-current="page">{{ page.title | truncatewords: 10 }}</li>
+    </ol>
+
+    <h2 class="mb-3">{{ page.title }}</h2>
+
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-10">
+
+        
+            <div class="card mb-4 text-center">
+                {% if page.image_small %}
+                <img src="{{ page.image_small | relative_url }}" alt="{{ page.image_alt_text | default: page.description | default: page.title | escape }}" class="img-fluid">{% endif %}
+                <div class="card-body">
+
+                    <div class="btn-group" role="group" aria-label="Item options">
+                        {% if page.collection_stub %}
+                        <a href="{{ '/' | relative_url }}{{ page.stub }}/" class="btn btn-lg btn-outline-primary">View Digital Collection</a>{% endif %}
+                        {% if page.finding_aid %}
+                        <a href="{{ page.finding_aid }}" class="btn btn-lg btn-outline-primary">View Finding Aid</a>{% endif %}
+                    </div>
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+        <div class="col-12 col-md-10" id="metadata">
+
+            {% include item/metadata.html %}
+
+        </div>
+
+    </div>
+
+    {%- if site.data.theme.browse-buttons == true -%}
+        {% include item/browse-buttons.html %}
+    {%- endif -%}
+</div>
