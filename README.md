@@ -11,6 +11,31 @@ Updates to the main branch can be merged into the collection branches to maintai
 This repository is specifically for building U of I Library projects and trails behind development of the general [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) template.
 If you are interested in this approach, please visit [CollectionBuilder](https://collectionbuilder.github.io/) to learn more!
 
+## Collections
+
+digital collections: 
+
+- Lionel Hampton Library Collection
+- Leonard Feather Collection
+- Al Grey/Rosalie Soladar Memorial Collection
+- Lee Morse Collection
+- Dizzy Gillespie Collection
+- Joe Williams Collection
+- Ray Brown Collection
+
+finding aids and info:
+
+- Conti Candoli Collection
+- Ella Fitzgerald Collection
+- Buddy Tate Collection
+- Doc Cheatham Collection
+- Pete Candoli Collection
+- Stan Kenton Collection 
+- Jane Jarvis Collection
+- Gerry Mulligan Collection
+- Yuri Vermenich Collection
+- Jazz Collection
+
 ----------
 
 ## CollectionBuilder 
