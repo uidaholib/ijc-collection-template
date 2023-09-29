@@ -36,6 +36,11 @@ finding aids and info:
 - Yuri Vermenich Collection
 - Jazz Collection
 
+## Legacy 
+
+- [ijc_classic 2019 migration](https://github.com/uidaholib/ijc_classic)
+- [web archive](https://web.archive.org/web/20140325233900/https://www.ijc.uidaho.edu/)
+
 ----------
 
 ## CollectionBuilder 
