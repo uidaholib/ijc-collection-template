@@ -1,5 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/,
+Biography,/bio.html,
+Recordings,/discography.html
 Browse,/browse.html,
 Subjects,/subjects.html,
 Locations,/locations.html,
