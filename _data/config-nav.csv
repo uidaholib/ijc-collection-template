@@ -1,6 +1,14 @@
 display_name,stub,dropdown_parent
 Home,/,
+Biography,/bio.html
+Blindfold Tests,/blindfold.html
+Journalist and Critic,/journalist.html
+Broadcaster and Producer,/broadcaster.html
+Musician and Composer,/musician.html
+Author and Historian,/author.html
+Human Rights Advocate,/advocate.html
 Browse,/browse.html,
+Career,/career.html
 Subjects,/subjects.html,
 Locations,/locations.html,
 Map,/map.html,
