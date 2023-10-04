@@ -1,5 +1,7 @@
 # ijc-collection-template
 
+International Jazz Collections
+
 <https://www.ijc.uidaho.edu/>
 
 A highly customized version of [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) used to generate the International Jazz Collections (IJC) at University of Idaho Library.
