@@ -1,11 +1,7 @@
 ---
 title: Locations
-layout: cloud
+layout: locations
 permalink: /locations.html
-# Default locations page is configured in "_data/theme.yml"
-# leave cloud-fields as "site.data.theme.locations-fields"
-cloud-fields: site.data.theme.locations-fields
-button: outline-payette-blue
 ---
 
 ## Browse Locations
