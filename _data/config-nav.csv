@@ -1,9 +1,12 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
-Map,/map.html,
-Timeline,/timeline.html,
+Performers,/performers.html,
+Instruments,/instruments.html
+Timeline,
+Timeline,/timeline.html,Timeline
+Poster Timeline,/postertimeline.html,Timeline
 Data,/data.html,
-About,/about.html,
+About,
+About the Collection,/about.html,About
+Jazz Fest History,/history.html,About
