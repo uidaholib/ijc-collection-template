@@ -1,17 +1,15 @@
 display_name,stub,dropdown_parent
 Home,/,
-Biography,/bio.html
-Blindfold Tests,https://www.lib.uidaho.edu/digital/blindfold
-Journalist and Critic,/journalist.html
-Broadcaster and Producer,/broadcaster.html
-Musician and Composer,/musician.html
-Author and Historian,/author.html
-Human Rights Advocate,/advocate.html
-Career,/career.html
 Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
-Map,/map.html,
 Timeline,/timeline.html,
+Blindfold Tests,https://www.lib.uidaho.edu/digital/blindfold/
+Finding Aid,http://nwda.orbiscascade.org/ark:/80444/xv98547
 Data,/data.html,
-About,/about.html,
+About Leonard Feather,,
+Biography,/bio.html,About Leonard Feather
+Career,/career.html,About Leonard Feather
+Journalist and Critic,/journalist.html,About Leonard Feather
+Broadcaster and Producer,/broadcaster.html,About Leonard Feather
+Musician and Composer,/musician.html,About Leonard Feather
+Author and Historian,/author.html,About Leonard Feather
+Human Rights Advocate,/advocate.html,About Leonard Feather
