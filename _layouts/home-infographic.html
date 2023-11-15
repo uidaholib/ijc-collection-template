@@ -7,18 +7,22 @@ layout: page
 
   <div class="col-md-8">
 
-    {% include index/description.html %}
+    <div class="card mb-3">
+      <div class="card-body">
+        <h2 class="card-title">{{ site.title }}</h2>
+        <p class="card-text">
+          Albert Thornton "Al" Grey was born on June 6, 1925 and was raised in Pottstown, Pennsylvania. The son of a musician, Al began playing trombone, among other instruments, as a young boy. Though he played other instruments (tuba among them) briefly, during service in World War II, he finally settled on the trombone. After the war he began playing and recording with Benny Carter's Big Band, and then with Lionel Hampton's band (1948-1952), where he began using a plunger as a mute. He also worked as a studio musician for Decca in the early 1950s. As the demand for the big band sound waned, he worked with a variety of small groups, settling in with the Count Basie Orchestra between 1957 and 1961, left it briefly and then was part of it from 1964 to 1977. Subsequent to that he again played and recorded with a variety of ensembles. He was active in music until his death in March of 2000. 
+        </p>
+        <a class="btn btn-primary" href="{{ '/bio.html' | relative_url }}" role="button">Learn More &raquo;</a>
+      </div>
+    </div>
     {% include index/carousel.html title="Sample Items" %}
-    {% include feature/image.html objectid="https://www.ijc.uidaho.edu/images/IJC_AGrey_coll_01-01.jpg" %}
+    
   </div>
   <div class="col-md-4">  
 
+    {% include feature/image.html objectid="https://www.ijc.uidaho.edu/images/IJC_AGrey_coll_01-01.jpg" %}
     {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="payette-blue" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-payette-blue" %}
-    
     {% include index/objects.html %}
 
   </div>
