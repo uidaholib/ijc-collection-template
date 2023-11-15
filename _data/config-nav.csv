@@ -1,12 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/,
-Biography,bio.html
-Film List,/films.html
-Recordings,/discography.html
 Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
-Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
-About,/about.html,
+About,,
+Biography,bio.html,About
+Film List,/films.html,About
+Recordings,/discography.html,About

@@ -7,17 +7,26 @@ layout: page
 
   <div class="col-md-8">
 
-    {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" %}
-    {% include feature/image.html objectid="https://www.ijc.uidaho.edu/images/IJC_LMorse_coll_01-06.jpg" %}
-  </div>
-  <div class="col-md-4">  
+    <div class="card mb-3">
+      <div class="card-body">
+        <h2 class="card-title">{{ site.title }}</h2>
+        <p class="card-text">
+          Lena Corinne Taylor was born on November 30, 1897 to Pleasant John and Olive Taylor. In 1908 her family moved to Kooskia, Idaho. She gained fame as a vaudeville performer, and critics were impressed by Lee’s vocal range. Lee was one of the most recorded female vocalists of the 1920s. In the mid-1930s, Lee opened a small club in Texas, which a fire destroyed in 1939. She resettled in Rochester, NY. She revitalized her career in a limited way there. She died suddenly in 1954 at the age of 57.
+        </p>
+        <a class="btn btn-primary" href="{{ '/bio.html' | relative_url }}" role="button">Learn More &raquo;</a>
+      </div>
+    </div>
 
+    {% include index/carousel.html title="Sample Items" %}
+    
+  </div>
+  <div class="col-md-4">
+
+    {% include feature/image.html objectid="https://www.ijc.uidaho.edu/images/IJC_LMorse_coll_01-06.jpg" %}
+    
     {% include index/time.html %}
 
     {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="payette-blue" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-payette-blue" %}
     
     {% include index/objects.html %}
 
