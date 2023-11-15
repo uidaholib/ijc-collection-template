@@ -7,18 +7,24 @@ layout: page
 
   <div class="col-md-8">
 
-    {% include index/description.html %}
+    <div class="card mb-3">
+      <div class="card-body">
+        <h2 class="card-title">{{ site.title }}</h2>
+        <p class="card-text">
+          Jazz journalist Leonard Geoffrey Feather was born in Hampstead, England on September 13, 1914. In the 1930s, he arranged, composed, and produced jazz sessions, and began to write about jazz for print media.  After moving to New York he worked with such greats as Louis Armstrong, Dizzy Gillespie, and Duke Ellington, establishing his reputation in various fields of jazz.  Writing for famous jazz journals and authoring several books, he was particularly influential in promoting Bebop.  Moving to Los Angeles in 1960, he became the chief jazz critic for the <em>Los Angeles Times</em>. Leonard Feather died on September 22, 1994.
+        </p>
+        <a class="btn btn-primary" href="{{ '/bio.html' | relative_url }}" role="button">Learn More &raquo;</a>
+      </div>
+    </div>
+
     {% include index/carousel.html title="Sample Items" %}
-    {% include feature/image.html objectid="https://www.ijc.uidaho.edu/images/IJC_LFeather_coll_01-01.jpg" %}
     
   </div>
-  <div class="col-md-4">  
+  <div class="col-md-4">
+
+    {% include feature/image.html objectid="https://www.ijc.uidaho.edu/images/IJC_LFeather_coll_01-01.jpg" %}
 
     {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="payette-blue" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-payette-blue" %}
     
     {% include index/objects.html %}
 
