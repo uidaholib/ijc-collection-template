@@ -4,11 +4,5 @@ description,Description,,,DCTERMS.description,description
 biography,Biography,
 collection_url,Digital Collection,,true
 finding_aid,Finding Aid,,true
-creator,Creator,,,DCTERMS.creator,creator
-archival date,Date Created (Archival Standard)
-date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
-subject,Subjects,true,,DCTERMS.subject,keywords
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+archival_items,Archival Extent,
+digitized_items,Digitized Items,
