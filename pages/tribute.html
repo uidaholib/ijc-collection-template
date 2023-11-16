@@ -6,12 +6,12 @@ permalink: /tribute.html
 
 {% include feature/image.html objectid="https://www.ijc.uidaho.edu/hampton_collection/images/Hampton_Library_sketch_20.jpg" %}
 
-<h1 class="text-center mb-4">Tributes</h1>
+<h1 class="text-center mb-5">Tributes</h1>
 
 <div class="row">
 {% for t in site.data.hamp_tributes %}
   <div class="col-md-3 mb-4 text-end">
-    {% if t.image %}<img class="img-fluid rounded" src="{{ t.image }}" alt="photo of {{ t.person }}">{% endif %}
+    {% if t.image %}<img class="img-fluid rounded" src="{{ t.image }}" alt="{% if t.alt %}{{ t. alt | escape }}{% else %}photo of {{ t.person | escape }}{% endif %}">{% endif %}
   </div>
   <div class="col-md-9 mb-4">
     <figure >
