@@ -1,11 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/,
-Biography,/bio.html,
-Recordings,/discography.html
 Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
-Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
-About,/about.html,
+Finding Aid,http://archiveswest.orbiscascade.org/ark:/80444/xv27008
+About Joe Williams,/about.html,
+Biography,/bio.html,About Joe Williams
+Recordings,/discography.html,About Joe Williams

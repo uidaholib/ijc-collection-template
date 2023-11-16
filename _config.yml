@@ -23,12 +23,12 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # title of site appears in banner
 title: Joe Williams Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The leading jazz archive in the Pacific Northwest
+tagline: The International Jazz Collections
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The International Jazz Collection (IJC) is the leading jazz archive in the Pacific Northwest. It features papers, photographs, audio/visual materials, and artifacts from jazz legends such as Lionel Hampton, Leonard Feather, Lee Morse, Dizzy Gillespie, and Ella Fitzgerald."
+description: "The International Jazz Collections (IJC) is the leading jazz archive in the Pacific Northwest. It features papers, photographs, audio/visual materials, and artifacts from jazz legends such as Lionel Hampton, Leonard Feather, Lee Morse, Dizzy Gillespie, and Ella Fitzgerald."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: jazz;idaho;history
+keywords: jazz; Joe Williams; history
 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
@@ -38,7 +38,7 @@ author: CollectionBuilder
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: joe_williams
+metadata: williams_joe
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:

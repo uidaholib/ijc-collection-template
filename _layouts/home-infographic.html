@@ -7,18 +7,21 @@ layout: page
 
   <div class="col-md-8">
 
-    {% include index/description.html %}
+    <div class="card mb-3">
+      <div class="card-body">
+        <h2 class="card-title">{{ site.title }}</h2>
+        <p class="card-text">
+          Joe Williams, vocalist, was born Joseph Goreed in Cordele, Georgia on December 12, 1918. His family moved to Chicago when he was three. He began singing professionally in the late 1930s, and during WW II was vocalist for the big bands of Coleman Hawkins and Lionel Hampton. After the war he sang with other bands, including a stint with Count Basie. He would return to the Basie band in 1954 and remain with it until 1960. With Basie, Williams had his first recording hits, including "Everyday" and "Alright, Okay, You Win." He toured extensively in the 1960s, from Chicago, and continued to tour after a move to Las Vegas in the early 1970s. He sang blues, jazz, and popular ballads, recorded much, and won many awards and wide recognition for his singing. In the 1980s he had a recurring role (as "Grandpa Al") on TV's The Cosby Show. He died in Las Vegas on March 29, 1999. 
+        </p>
+        <a class="btn btn-primary" href="{{ '/bio.html' | relative_url }}" role="button">Learn More &raquo;</a>
+      </div>
+    </div>
     {% include index/carousel.html title="Sample Items" %}
     
   </div>
   <div class="col-md-4">  
-
+    {% include feature/image.html objectid="https://www.ijc.uidaho.edu/images/IJC_JWilliams_coll_01-01.jpg" %}
     {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="payette-blue" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-payette-blue" %}
-    
     {% include index/objects.html %}
 
   </div>
