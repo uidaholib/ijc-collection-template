@@ -24,8 +24,8 @@ item-meta: true
                 <div class="card-body">
 
                     <div class="btn-group" role="group" aria-label="Item options">
-                        {% if page.collection_stub %}
-                        <a href="{{ '/' | relative_url }}{{ page.stub }}/" class="btn btn-lg btn-outline-primary">View Digital Collection</a>{% endif %}
+                        {% if page.collection_url %}
+                        <a href="{{ page.collection_url }}" class="btn btn-lg btn-outline-primary">View Digital Collection</a>{% endif %}
                         {% if page.finding_aid %}
                         <a href="{{ page.finding_aid }}" class="btn btn-lg btn-outline-primary">View Finding Aid</a>{% endif %}
                     </div>
