@@ -14,6 +14,7 @@ var items = [
         {% if item.display_template %}"template": {{ item.display_template | replace: "_"," " | jsonify }}, {%- endif -%}
         {% if item.format %}"format": {{ item.format | jsonify }}, {%- endif -%}
         {% if item.image_alt_text %}"alt": {{ item.image_alt_text | escape | jsonify }}, {%- endif -%}
+        {% if item.collection_url %}"collection_url": {{ item.collection_url | jsonify }}, {% endif %}
         "title":{{ item.title | strip | escape | jsonify }},
         {% if item.parentid %}"parent": {{ item.parentid | jsonify }}, {%- endif -%}
         "id":{{ item.objectid | jsonify }} }{% unless forloop.last %},{% endunless %}{%- endfor -%}
@@ -26,7 +27,11 @@ function makeCard(obj) {
     // placeholder image for lazyload
     var placeholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E";
     // find item link
-    var itemHref = `{{ '/items/' | relative_url }}${ obj.parent ? obj.parent + ".html#" + obj.id : obj.id + ".html"}`; 
+    if (obj.collection_url) { 
+        var itemHref = obj.collection_url
+    } else {
+        var itemHref = `{{ '/items/' | relative_url }}${ obj.parent ? obj.parent + ".html#" + obj.id : obj.id + ".html"}`; 
+    }
     // find image
     var imgSrc, thumbIcon;
     // if there is a thumb in the csv display it
@@ -77,9 +82,13 @@ function makeCard(obj) {
     {% unless forloop.last %}card += '<br>';{% endunless %}
     }
     {% endunless %}{% endfor %}
-    card += '</p>';
-    // view button
-    card += '<hr><a href="' + itemHref + '" class="btn btn-sm btn-light" title="link to ' + obj.title + '">View Collection Information</a>';
+    card += '</p><hr>';
+    // view digital collection
+    if (obj.collection_url) { 
+        card += '<a href="' + obj.collection_url + '" class="btn btn-sm btn-primary" title="link to ' + obj.title + '">View Digital Collection</a>'; 
+    } else {
+        card += '<a href="' + itemHref + '" class="btn btn-sm btn-light" title="link to ' + obj.title + '">View Collection Information</a>';
+    }
     // close divs
     card += '</div></div></div>';
     // send back big string
