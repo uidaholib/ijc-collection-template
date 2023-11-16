@@ -1,11 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/,
-Biography,/bio.html
-Recordings,/discography.html
 Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
-Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
-About,/about.html,
+Finding Aid,http://nwda.orbiscascade.org/ark:/80444/xv21484
+About Dizzy Gillespie,,
+Biography,/bio.html,About Dizzy Gillespie
+Recordings,/discography.html,About Dizzy Gillespie
