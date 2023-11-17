@@ -1,9 +1,8 @@
 # Migration Notes
 
-https://www.ijc.uidaho.edu/
-
-Sheet with details, https://docs.google.com/spreadsheets/d/1N3TlyCpod00-bZe5aVDavzZ4y0WsZx1yizf5kf03nmQ/edit#gid=0
-or as "IJC_cdm_migration_details.csv"
+- folder "docs/metadata/" contains exports from CDM (".txt"), plus prepped metadata (".csv"). 
+    - "ijc_collections.csv" is data about all the collections for use on the home page.
+- Sheet with details "IJC_cdm_migration_details.csv" or https://docs.google.com/spreadsheets/d/1N3TlyCpod00-bZe5aVDavzZ4y0WsZx1yizf5kf03nmQ/edit#gid=0
 
 prep metadata (collections with mixed compound objects are tricky):
 
