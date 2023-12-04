@@ -26,6 +26,7 @@ title: Lionel Hampton Jazz Festival Collection
 tagline: Memorabilia related to the University of Idaho's Jazz Festival, 1969-2021
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
+
 description: "A digital collection comprised of 30 years' worth of posters, programs, photographs, and oral histories related to the Lionel Hampton Jazz Festival at the University of Idaho." 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: jazz;idaho;history;ui
@@ -54,7 +55,7 @@ metadata: jazzfest
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "University of Idaho Library Digital Initiatives"
+organization-name: "University of Idaho Library Digital Collections"
 organization-link: https://www.lib.uidaho.edu/digital/
 organization-logo-banner: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
 organization-logo-nav: https://www.lib.uidaho.edu/media/digital/liblogo_white.png
