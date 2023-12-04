@@ -5,6 +5,8 @@ archival date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
+format_original,Original Format,,,,
+publisher,Publisher,,,,
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
