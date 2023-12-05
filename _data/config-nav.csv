@@ -2,10 +2,14 @@ display_name,stub,dropdown_parent
 Home,/,
 About,/about.html,
 Digital Collections,,
-Lionel Hampton Library Collection,/hampton_collection/,Digital Collections
-Leonard Feather Collection,/feather_leonard/,Digital Collections
-Al Grey/Rosalie Soladar Memorial Collection,/grey_al/,Digital Collections
-Lee Morse Collection,/morse_lee/,Digital Collections
-Dizzy Gillespie Collection,/gillespie_dizzy/,Digital Collections
-Joe Williams Collection,/williams_joe/,Digital Collections
-Ray Brown Collection,/brown_ray/,Digital Collections
+Al Grey/Rosalie Soladar Memorial Collection,https://www.ijc.uidaho.edu//grey_al/,Digital Collections
+Doc Cheatham Collection,https://www.lib.uidaho.edu/digital/cheatham/,Digital Collections
+Dizzy Gillespie Collection,https://www.ijc.uidaho.edu//gillespie_dizzy/,Digital Collections
+Ella Fitzgerald Exhibit,https://www.lib.uidaho.edu/digital/ella-fitzgerald/,Digital Collections
+Joe Williams Collection,https://www.ijc.uidaho.edu//williams_joe/,Digital Collections
+Lee Morse Collection,https://www.ijc.uidaho.edu//morse_lee/,Digital Collections
+Leonard Feather Collection,https://www.ijc.uidaho.edu//feather_leonard/,Digital Collections
+Leonard Feather Blindfold Tests,https://www.lib.uidaho.edu/digital/blindfold/,Digital Collections
+Lionel Hampton Library Collection,https://www.ijc.uidaho.edu//hampton_collection/,Digital Collections
+Lionel Hampton Jazz Festival Collection,https://www.lib.uidaho.edu/digital/jazzfest/,Digital Collections
+Ray Brown Collection,https://www.ijc.uidaho.edu//brown_ray/,Digital Collections
