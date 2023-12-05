@@ -1,5 +1,6 @@
 display_name,stub,dropdown_parent
 Home,/,
+About,/about.html,
 Digital Collections,,
 Lionel Hampton Library Collection,/hampton_collection/,Digital Collections
 Leonard Feather Collection,/feather_leonard/,Digital Collections
@@ -8,4 +9,3 @@ Lee Morse Collection,/morse_lee/,Digital Collections
 Dizzy Gillespie Collection,/gillespie_dizzy/,Digital Collections
 Joe Williams Collection,/williams_joe/,Digital Collections
 Ray Brown Collection,/brown_ray/,Digital Collections
-About,/about.html,
