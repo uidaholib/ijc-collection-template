@@ -30,6 +30,7 @@ description: "The International Jazz Collections (IJC) is the leading jazz archi
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: jazz; history; Leonard Feather
 
+
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
@@ -54,7 +55,7 @@ metadata: feather_leonard
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "University of Idaho Library Digital Initiatives"
+organization-name: "University of Idaho Library Digital Collections"
 organization-link: https://www.lib.uidaho.edu/digital/
 organization-logo-banner: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
 organization-logo-nav: https://www.lib.uidaho.edu/media/digital/liblogo_white.png
