@@ -61,7 +61,7 @@ year-nav-increment: 5 # set increments to auto gen nav years
 # 
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
+metadata-export-fields: "objectid,parentid,title,creator,publisher,date,date_is_approximate,description,subject,keywords,relation,contributing_institution,publisher_digital,source,listing_code,identifier,format,type,digitization specifications,rights,rightsstatement,language,metadata_cataloger,scanner_technician,collection_administrator"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "subject,creator,format"
 
