@@ -1,5 +1,4 @@
 display_name,stub,dropdown_parent
-IJC,https://www.ijc.uidaho.edu/
 Home,/,
 Browse,/browse.html,
 Subjects,/subjects.html,
@@ -8,3 +7,4 @@ Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
 About,/about.html,
+IJC,https://www.ijc.uidaho.edu/
