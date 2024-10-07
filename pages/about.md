@@ -60,6 +60,3 @@ At it's peak the festival was a four day event featuring music, dance, and jazz 
 In 2007, the Lionel Hampton Jazz Festival and the University of Idaho were an honored recipient of the National Medal of the Arts, making it the first jazz festival (and university) to receive the highest honor for the arts in the country. 
 
 {% include feature/image.html objectid="jazzfest161" width="75" %}
-
-<div class="clearfix"></div>
-
