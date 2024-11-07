@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.ijc.uidaho.edu
+url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /demo
+baseurl: /digital/ella-fitzgerald
 # location of code, the full url to your github repository
 source-code: https://github.com/uidaholib/ijc-collection-template
 
@@ -22,21 +22,20 @@ digital-assets: https://www.lib.uidaho.edu/assets
 #
 # set to true to use elastic search box in nav. Collection search.json must be added to the search Sources! Check config-search-index for configuration.
 # if collection is not in the index, leave blank to use local lunr search instead.
-central-search: 
+central-search: true
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: International Jazz Collections
+title: Ella Fitzgerald Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The leading jazz archive in the Pacific Northwest
+tagline: Celebrating Fitzgerald's fashion and style through her clothing, photographs, and album covers
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The International Jazz Collections (IJC) is the leading jazz archive in the Pacific Northwest. It features papers, photographs, audio/visual materials, and artifacts from jazz legends such as Lionel Hampton, Leonard Feather, Lee Morse, Dizzy Gillespie, and Ella Fitzgerald."
+description: "Ella Jane Fitzgerald, also known as 'the first lady of song,' is loved by jazz listeners worldwide. This collection features Fitzgerald's iconic wardrobe and highlights the stories and creators behind some of her famous clothing."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: jazz; history
-
+keywords: jazz; Ella Fitzgerald; fashion
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
@@ -45,7 +44,7 @@ author: CollectionBuilder
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: ella-fitzgerald
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
