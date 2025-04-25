@@ -16,11 +16,7 @@
                 {% for nav in navItems %}
                 {% if nav.stub %}
                 <li class="nav-item">
-                    {% if nav.stub contains "http" or nav.stub contains "https" %}
-                    <a class="nav-link{% if page.url == nav.stub %} active{% endif %}" href="{{ nav.stub }}" target="_blank" rel="noopener">{{ nav.display_name }}</a>
-                    {% else %}
                     <a class="nav-link{% if page.url == nav.stub %} active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
-                    {% endif %}
                 </li>
                 {%- else -%}
                 <li class="nav-item dropdown">
