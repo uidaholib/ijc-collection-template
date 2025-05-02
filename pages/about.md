@@ -10,9 +10,14 @@ credits: true
 
 {% include feature/jumbotron.html objectid="cheatham019" position="top" %} 
 
-{% include feature/nav-menu.html sections="About Doc Cheatham;First Career;Second Career;Influence;So What?;Collection Highlights;About the Collection;Collection Curator" %}
+{% include feature/nav-menu.html sections="About the Collection;About Doc Cheatham;First Career;Second Career;Influence;So What?;Collection Highlights;Collection Curator" %}
+
+## About the Collection
+
+This digital collection was created using materials from the Lionel Hampton Jazz Festival Collection and the [Doc Cheatham Collection](https://archiveswest.orbiscascade.org/ark:/80444/xv94027), sourced from the University of Idaho Library's [International Jazz Collections](https://www.ijc.uidaho.edu/). The Cheatham collection consists of photographs, manuscripts, reel-to-reel records, clothing, and more donated by Cheatham's widow, Amanda "Nellie" Cheatham.
 
 ## About Doc Cheatham
+_Essay by Berry International Jazz Collection Fellow Esther David_
 
 Adolphus "Doc" Cheatham, Afro-Indigenous musician, continues to be celebrated for his warmth and vitality. Cheatham was born in Tennessee in 1905, and saw the big band, bebop, and jazz fusion eras. He rubbed shoulders with all the jazz greats of the 20th century as a lead trumpeter, ensemble member, and bandleader. Cheatham performed all around the world, gracing venues such as the Dreamland Cafe, the Cotton Club, and was a hallmark of the Sweet Basil Jazz Club in New York City's Greenwich Village. 
 
@@ -64,10 +69,6 @@ Cheatham beheld the origins of jazz and its various 20th-century transformations
 </div>
 
 {% include feature/image.html objectid="cheatham049" caption="Doc Cheatham performing at the Lionel Hampton Jazz Festival, Moscow, Idaho, 1989" %}
-
-## About the Collection
-
-This digital collection was created using materials from the Lionel Hampton Jazz Festival Collection and the [Doc Cheatham Collection](https://archiveswest.orbiscascade.org/ark:/80444/xv94027), sourced from the University of Idaho Library's [International Jazz Collections](https://www.ijc.uidaho.edu/). The Cheatham collection consists of photographs, manuscripts, reel-to-reel records, clothing, and more donated by Cheatham's widow, Amanda "Nellie" Cheatham.
 
 ## Collection Curator
 
