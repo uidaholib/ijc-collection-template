@@ -20,11 +20,11 @@ Also included are a series of oral histories conducted by the 2020 Berry Jazz Fe
 
 ## An Inauspicious Beginning
 
-The University of Idaho held it's first jazz festival in 1967 under the direction of Bruce Bray a faculty member in the University of Idaho School of Music.
+The University of Idaho held its first jazz festival in 1967 under the direction of Bruce Bray a faculty member in the University of Idaho School of Music.
 The following year, the festival was taken over by David Seiler and Robert Spevacek who ensured the focus of the festival was on music and jazz education for students. 
 In the early years of the festival, the concerts showcased the University of Idaho's jazz bands and the top performing high school jazz bands from the region selected during the day's competition. 
 
-{% include feature/pdf.html objectid="jazzfest165" width="50" %}
+{% include feature/image.html objectid="jazzfest165" width="50" %}
 
 By the mid-1970s, the festival had grown from a single day of competitions culminating with a concert into a two day event. 
 It was around this time that the festival, under the direction of Rich Werner and Denny Gold, began bringing nationally recognized jazz artists to hold clinics and perform at their evening concerts. 
@@ -56,7 +56,7 @@ Today the program continues, but takes place throughout the year and not just du
 
 {% include feature/image.html objectid="jazzfest40" width="50" %}
 
-At it's peak the festival was a four day event featuring music, dance, and jazz history clinics; student competitions; and, evening concerts featuring festival competition winners and guest artists. 
+At its peak the festival was a four day event featuring music, dance, and jazz history clinics; student competitions; and, evening concerts featuring festival competition winners and guest artists. 
 In 2007, the Lionel Hampton Jazz Festival and the University of Idaho were an honored recipient of the National Medal of the Arts, making it the first jazz festival (and university) to receive the highest honor for the arts in the country. 
 
 {% include feature/image.html objectid="jazzfest161" width="75" %}
