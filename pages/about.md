@@ -36,6 +36,7 @@ Moscow, ID 83844-2350
 
 ## Related Links
 
+- [Lionel Hampton School of Music](https://catalog.uidaho.edu/colleges-related-units/letters-arts-social-sciences/music/)
 - [Lionel Hampton Jazz Festival](https://www.uidaho.edu/class/jazzfest)
 
 Other Collections:
