@@ -5,22 +5,22 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: 
+about-featured-image: https://www.lib.uidaho.edu/digital/objects/blindfold/young.jpg
 # set background-position for featured image, "center", "top", "bottom"
 position: center
 # major heading to display over featured image
 heading: The International Jazz Collections
 # paragraph text below heading in featured image
-sub-heading: 
+#sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 
+padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="https://www.ijc.uidaho.edu/images/IJC_flash3_01.jpg" %} 
-
 ## About International Jazz Collections
+
+{% include feature/image.html objectid="https://www.ijc.uidaho.edu/images/IJC_flash3_01.jpg" %} 
 
 The International Jazz Collections (IJC) was formally established at the University of Idaho in 2000, featuring papers and photographs of the legendary Lionel Hampton. 
 The IJC merged with the University of Idaho Library's [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/) department in 2007. 
