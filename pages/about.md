@@ -17,7 +17,8 @@ credits: true
 This digital collection was created using materials from the [Collection on Ella Fitzgerald]( https://archiveswest.orbiscascade.org/ark:/80444/xv28439) from the University of Idaho Library’s [International Jazz Collections](https://www.ijc.uidaho.edu/). The collection consists primarily of materials donated by the Estate of Ella Fitzgerald, including photographs, posters, record covers, and clothing, as well as a few materials donated by others relating to Ella Fitzgerald.
 
 ## About Ella Fitzgerald
-_Essay by Berry International Jazz Fellowship Recipient Destiny Angel-Hubble_
+
+_by Destiny Angel-Hubble (Berry International Jazz Fellow 2021)_
 
 Ella Jane Fitzgerald, also known as "the first lady of song," is loved by jazz listeners worldwide. Known for her beautiful ballads, her fiery bebop scat solos, and her ability to connect with anyone through song, Fitzgerald had a career lasting more than 6 decades and sang with dozens of her contemporaries, including Duke Ellington, Dizzy Gillespie, Louis Armstrong, Count Basie, and many more. The University of Idaho's International Jazz Collection obtained her artifacts through the Estate of Ella Fitzgerald. 
 
