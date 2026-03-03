@@ -1,6 +1,6 @@
 ---
 title: About
-layout: about
+layout: page-narrow
 permalink: /about.html
 ---
 
