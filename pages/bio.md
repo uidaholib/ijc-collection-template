@@ -1,12 +1,12 @@
 --- 
 title: About the Collection
-layout: page-narrow
+layout: about
 permalink: /bio.html
+about-featured-image: ijc_al_grey_217
+position: center
+heading: About the Collection
+padding: 10em
 ---
-
-{% include feature/image.html objectid="https://www.ijc.uidaho.edu/images/IJC_AGrey_coll_02-05.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;Al Grey Biography" %}
 
 # About the Collection
 
