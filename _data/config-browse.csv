@@ -2,6 +2,7 @@ field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date Created
 description,,,true,
 creator,Creator,,,
+musicians,Musicians,,,
 subject,,true
 location,,true,,,
 identifier,,,true,Identifier
