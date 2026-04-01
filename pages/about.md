@@ -30,7 +30,7 @@ The University of Idaho held its first jazz festival in 1967 under the direction
 The following year, the festival was taken over by David Seiler and Robert Spevacek who ensured the focus of the festival was on music and jazz education for students. 
 In the early years of the festival, the concerts showcased the University of Idaho's jazz bands and the top performing high school jazz bands from the region selected during the day's competition. 
 
-{% include feature/image.html objectid="jazzfest165" width="50" %}
+{% include feature/image.html objectid="jazzfest165" %}
 
 By the mid-1970s, the festival had grown from a single day of competitions culminating with a concert into a two day event. 
 It was around this time that the festival, under the direction of Rich Werner and Denny Gold, began bringing nationally recognized jazz artists to hold clinics and perform at their evening concerts. 
@@ -42,7 +42,7 @@ By 1980, the festival had grown to include three days of activities, hosting clo
 Under Skinner's direction the festival continued to grow and in 1982, he was able to secure one of the world's most notable jazz vocalists to perform, Ella Fitzgerald. 
 Performing in Memorial Gym, Fitzgerald's performance brought some attention to the festival.
 
-{% include feature/image.html objectid="jazzfest30" width="50" %}
+{% include feature/image.html objectid="jazzfest30" %}
 
 ## The Lionel Hampton Jazz Festival
 
@@ -60,9 +60,9 @@ Visiting guest artists would travel to nearby schools to teach students about ja
 Every year during the Jazz in Schools program Hampton would travel to Lapwai, Idaho to teach students about jazz. 
 Today the program continues, but takes place throughout the year and not just during the jazz festival. 
 
-{% include feature/image.html objectid="jazzfest40" width="50" %}
+{% include feature/image.html objectid="jazzfest40" %}
 
 At its peak the festival was a four day event featuring music, dance, and jazz history clinics; student competitions; and, evening concerts featuring festival competition winners and guest artists. 
 In 2007, the Lionel Hampton Jazz Festival and the University of Idaho were an honored recipient of the National Medal of the Arts, making it the first jazz festival (and university) to receive the highest honor for the arts in the country. 
 
-{% include feature/image.html objectid="jazzfest161" width="75" %}
+{% include feature/image.html objectid="jazzfest161" %}
