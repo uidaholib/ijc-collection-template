@@ -21,7 +21,7 @@ padding: 6em
 ## About the Collection
 
 This collection consists of posters, programs, photographs, and other materials documenting the history of the Lionel Hampton Jazz Festival. 
-Materials span the years 1969 to 2020, and originate primarily from the Jazz Office records. 
+The majority of materials span the years 1969 to 2020, originating from the Jazz Office records. 
 Also included are a series of oral histories conducted by the 2020 Berry Jazz Fellow, Spencer Manning, with long time festival director Lynn "Doc" Skinner. 
 
 ## An Inauspicious Beginning

@@ -30,13 +30,13 @@ central-search:
 # title of site appears in banner
 title: Lionel Hampton Jazz Festival Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Memorabilia related to the University of Idaho's Jazz Festival, 1969-2026
+tagline: Memorabilia related to the University of Idaho's Jazz Festival
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 
-description: "A digital collection comprised of 30 years' worth of posters, programs, photographs, and oral histories related to the Lionel Hampton Jazz Festival at the University of Idaho." 
+description: "A digital collection comprised of posters, programs, photographs, and oral histories related to the Lionel Hampton Jazz Festival at the University of Idaho." 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: jazz;idaho;history;ui
+keywords: jazz; idaho; history; university of idaho
 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
