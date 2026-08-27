@@ -4,6 +4,6 @@ layout: page-full-width
 permalink: /postertimeline.html
 ---
 
-## Poster Timeline
+## Jazz Fest Poster Timeline
 
-{% include feature/timelinejs.html %}
+{% include feature/timelinejs.html json="/assets/data/poster-timelinejs.json" %}
